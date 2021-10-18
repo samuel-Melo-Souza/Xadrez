@@ -1,0 +1,29 @@
+body{
+    border: 0%;
+    background-color: blanchedalmond;
+    background-image: url(imagens/BG.jpg);
+}
+.cabecalho{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size:larger;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+.linha{
+    position:static;
+    display: inline-block;
+}
+.casa__preta{
+    width: 101px;
+    height: 101px;
+    background-image: url(imagens/placa_preta.jpg);
+}
+.casa__branca{
+    width: 101px;
+    height: 101px;
+    background-image: url(imagens/placa_branca.jpg);
+}
